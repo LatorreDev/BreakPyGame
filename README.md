@@ -23,7 +23,7 @@ python3 -m pip install -U pygame --user
 ```
 
 ## Screenshot
-![brickpygame](https://github.com/LatorreDev/BrickPyGame/blob/main/assets/brickpygameaction.gif)
+![brickpygame](https://github.com/LatorreDev/BrickPyGame/blob/main/assets/brickgameaction.gif)
 
 My social networks
 * Personal
